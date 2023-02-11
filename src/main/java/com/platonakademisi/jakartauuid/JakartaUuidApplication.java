@@ -11,7 +11,6 @@ import com.platonakademisi.jakartauuid.repository.BuildingRepository;
 import java.util.List;
 
 @SpringBootApplication
-@EnableJpaRepositories
 public class JakartaUuidApplication {
 
     public static void main(String[] args) {
